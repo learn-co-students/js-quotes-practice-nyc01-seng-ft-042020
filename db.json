@@ -51,8 +51,16 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "Learn. Love. Code.",
+      "author": "Flatiron School",
+      "likes": [],
+      "id": 12
+    },
+    {
+      "quote": "Wants Cookies",
+      "author": "Pusheen",
+      "likes": [],
+      "id": 13
     }
   ],
   "likes": [
@@ -60,6 +68,31 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": "1",
+      "createdAt": 1591713128444,
+      "id": 2
+    },
+    {
+      "quoteId": "1",
+      "createdAt": 1591713139190,
+      "id": 3
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1591713183179,
+      "id": 4
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1591713516516,
+      "id": 5
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1591713516852,
+      "id": 6
     }
   ]
 }
